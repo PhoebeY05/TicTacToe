@@ -1,7 +1,7 @@
 # TicTacToe
 <p>Mobile application that allows users to play TicTacToe with numerous features</p>
 
-##Features:
+## Features:
 1. Reminds player when it is their turn to make a move
 2. Record each player's number of wins
 3. Announces which player won when the winning condition is met (and a draw if no one does)
