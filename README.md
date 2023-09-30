@@ -7,4 +7,6 @@
 3. Announces which player won when the winning condition is met (and a draw if no one does)
 4.Records the total number of games played including draws
 
+***Disclaimer: Run package.json with npm install to manage the dependencies***
+
 Course link: https://www.udemy.com/course/react-guide-build-a-tictactoe-app-using-react-native/
