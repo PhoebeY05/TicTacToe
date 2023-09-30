@@ -1,5 +1,5 @@
 # TicTacToe
-<p>Mobile application that allows users to play TicTacToe with numerous features</p>
+<p>Mobile application that allows users to play TicTacToe made in an Udemy course</p>
 
 ## Features:
 1. Reminds player when it is their turn to make a move
@@ -7,4 +7,4 @@
 3. Announces which player won when the winning condition is met (and a draw if no one does)
 4.Records the total number of games played including draws
 
-Udemy course link: https://www.udemy.com/course/react-guide-build-a-tictactoe-app-using-react-native/
+Course link: https://www.udemy.com/course/react-guide-build-a-tictactoe-app-using-react-native/
