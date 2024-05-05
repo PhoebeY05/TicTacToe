@@ -1,6 +1,9 @@
 # TicTacToe
-<p>Mobile application that allows users to play TicTacToe (made in an Udemy course)</p>
+Mobile application that allows users to play TicTacToe (made in an Udemy course)
 
+## Technologies Used
+1. React Native
+2. Expo Go
 ## Features:
 1. Reminds player when it is their turn to make a move
 2. Record each player's number of wins*
